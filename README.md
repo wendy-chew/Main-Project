@@ -7,14 +7,5 @@ This will easily allow for international participation, and simplifies decisions
 as we will be following the Wiki formatting.
 
 
-## Current Progress
-- Started exploring MediaWiki
-
-### Tasks: 
-1. Select a software environment 
-    - a. Wiki Educational Dashboard -Ruby, Javascript
-    - b. Kiwix- Java (Android), Swift (iOS), Offline reader for wiki web content
-2. Set up development environment
-3. Write and test code
-4. Submit code changes
-
+Link to the our mediawiki:
+https://wendychew.me/mediawiki/index.php/Unsual_Solution_Wiki
