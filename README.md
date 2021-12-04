@@ -8,4 +8,4 @@ as we will be following the Wiki formatting.
 
 
 Link to the our mediawiki:
-https://wendychew.me/mediawiki/index.php/Unsual_Solution_Wiki
+https://wendychew.me/mediawiki/index.php/Unusual_Solutions_Wiki
